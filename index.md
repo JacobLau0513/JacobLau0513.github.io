@@ -1,5 +1,5 @@
 # Yi Liu, PhD
-## Header 2
+## Bio
 ### Header 3
 
 - Bulleted
